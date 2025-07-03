@@ -51,7 +51,7 @@ I'm a dedicated backend developer with a passion for building scalable, secure, 
 - 👯 I’m open to collaborating on open-source projects involving **microservices**, **API development**, or **cloud infrastructure**.
 - 💬 Ask me about **REST/GraphQL APIs**, **database optimization**, or **cloud deployment** strategies!
 - 📍 Based in Nepal, contributing to the global tech community.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-profile).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-baral-016ab220a/).
 
 ## 🚀 What I Do
 
@@ -90,11 +90,11 @@ I maintain [3 repositories](https://github.com/brlamit?tab=repositories) on GitH
 ## 📱 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
+  <a href="https://www.linkedin.com/in/amit-baral-016ab220a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <!-- <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
   <a href="https://discord.com/users/your-profile"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
   <a href="https://www.twitch.tv/your-profile"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" /></a>
-  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" /></a>
+  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" /></a> -->
 </div>
 
 ---
